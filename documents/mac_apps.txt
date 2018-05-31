@@ -1,0 +1,59 @@
+1Clipboard.app
+Android Studio.app
+App Store.app
+Appium.app
+AppiumForMac.app
+Apple Configurator 2.app
+Automator.app
+Bandwidth+.app
+Calculator.app
+Calendar.app
+Chess.app
+Contacts.app
+DVD Player.app
+Dashboard.app
+Dictionary.app
+ESET Endpoint Antivirus.app
+FaceTime.app
+FinderPath.app
+Firefox.app
+Font Book.app
+Google Chrome.app
+Image Capture.app
+Itsycal.app
+Karabiner-Elements.app
+Karabiner-EventViewer.app
+Launchpad.app
+Mail.app
+Maps.app
+Messages.app
+Microsoft Remote Desktop.app
+Mission Control.app
+Notes.app
+OnyX.app
+Photo Booth.app
+Photos.app
+Preview.app
+PyCharm.app
+QuickTime Player.app
+Reminders.app
+Safari.app
+Siri.app
+Skitch.app
+Skype.app
+Sourcetree.app
+Stickies.app
+System Preferences.app
+TextEdit.app
+Time Machine.app
+Utilities
+Visual Studio Code.app
+Xcode.app
+iBooks.app
+iTunes.app
+mac_apps.txt
+orangehrm-3.3.3-1
+redmine-3.4.2-4
+
+# Node package manager UI
+ndm
