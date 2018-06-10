@@ -1,3 +1,4 @@
 LFS/*.m4v filter=lfs diff=lfs merge=lfs -text
 LFS/*.mp* filter=lfs diff=lfs merge=lfs -text
 LFS/*.avi filter=lfs diff=lfs merge=lfs -text
+'*.xls' filter=lfs diff=lfs merge=lfs -text
