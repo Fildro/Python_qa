@@ -5,3 +5,4 @@ LFS/*.avi filter=lfs diff=lfs merge=lfs -text
 lfs/cibanez_videos/*.bin filter=lfs diff=lfs merge=lfs -text
 lfs/rbabugia/*.doc filter=lfs diff=lfs merge=lfs -text
 lfs/cibanez_videos/*.binx filter=lfs diff=lfs merge=lfs -text
+lsf/cibanez_videos/*.jpg filter=lfs diff=lfs merge=lfs -text
